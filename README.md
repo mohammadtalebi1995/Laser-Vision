@@ -1,2 +1,2 @@
-# Laser-Vision
-laser triangulation sensors for maximum measurement accuracy
+# Laser Profiler
+ laser measurement
